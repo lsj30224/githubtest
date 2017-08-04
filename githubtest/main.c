@@ -8,8 +8,15 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+int main(void)
+{
+    char str[100] = {0};
+
+    printf("github test1\n");  //이제 있음
+    //printf("input >>");
+    //scanf("%s", str);
+    //printf("output : %s\n", str);
+    //printf("branch 전환\n");
+    //printf("1\n");
     return 0;
 }
