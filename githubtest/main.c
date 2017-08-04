@@ -24,3 +24,5 @@ int main(void)
     return 0;
 }
 //commit을 하면 수정사항이 로컬로 들어가고 push를 하면 commit한게 원격저장소로 올라가는듯
+//merge from branch하면 예를들어 발전 덜된거 --->> 발전된거
+//덜된거에서 merge from branch로 발전된거를 선택하면 덜된거에 발전된거가 추가되는듯
