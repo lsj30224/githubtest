@@ -13,7 +13,7 @@ int main(void)
     char str[100] = {0};
 
     printf("github test1\n");  //이제 있음
-    //printf("input >>");
+    printf("input >>");
     //scanf("%s", str);
     //printf("output : %s\n", str);
     //printf("branch 전환\n");
