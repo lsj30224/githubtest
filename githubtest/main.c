@@ -17,6 +17,6 @@ int main(void)
     //scanf("%s", str);
     //printf("output : %s\n", str);
     //printf("branch 전환\n");
-    //printf("1\n");
+    printf("1\n");
     return 0;
 }
